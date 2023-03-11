@@ -1,4 +1,4 @@
-<h1 align="center">WHY IS JAVASCRIPT SO HARD empyt</h1>
+<h1 align="center">WHY IS JAVASCRIPT SO HARD (my name is empyt)</h1>
 <h3 align="center">just a young 14 year old boy, i code some games and tools, and i have a lot of complications with my studdies, that's all</h3>
 
 - I have the [Github Searcher](https://github.com/Empyt/Github-Searcher)
